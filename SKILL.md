@@ -3,7 +3,7 @@ name: power-of-powerless
 description: A skill for analyzing how ordinary people's participation sustains systems of control - and how withdrawal of that participation can collapse them.
 license: MIT
 metadata:
-  version: 1.0.4720
+  version: 1.0.4721
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
